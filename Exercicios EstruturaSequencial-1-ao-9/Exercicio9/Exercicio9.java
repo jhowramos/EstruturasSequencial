@@ -10,5 +10,6 @@ public class Exercicio9 {
         double tempFah = ler.nextFloat();
         double conversao = 5 * ((tempFah-32) / 9);
         System.out.printf("Resultado da conversão: %.2f Graus Celsius", conversao);
+        ler.close();
     }
 }
