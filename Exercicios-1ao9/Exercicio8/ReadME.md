@@ -1,1 +1,1 @@
-###1-Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+<h1>8-Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.</h1>
