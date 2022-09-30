@@ -1,1 +1,1 @@
-###1-Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+<h1>6-Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.</h1>
