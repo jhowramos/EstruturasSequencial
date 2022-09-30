@@ -7,5 +7,6 @@ public class Exercicio7 {
         double lado = ler.nextFloat();
         double soma = lado * lado;
         System.out.printf("O dobro desta área é: %.2f", (soma*2));
+        ler.close();
     }
 }

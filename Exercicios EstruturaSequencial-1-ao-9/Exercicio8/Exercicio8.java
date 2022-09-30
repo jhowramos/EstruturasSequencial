@@ -9,5 +9,6 @@ public class Exercicio8 {
         double horasTrabalhadaMes = ler.nextFloat();
         double somaHorasTrabalhadas = horasTrabalhadas * horasTrabalhadaMes;
         System.out.printf("Seu salário nesse referido mês é: %.2f", somaHorasTrabalhadas);
+        ler.close();
     }
 }
