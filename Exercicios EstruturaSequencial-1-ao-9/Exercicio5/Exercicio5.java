@@ -6,6 +6,7 @@ public class Exercicio5 {
         System.out.println("Digite a quantidade de metros que deseja converter para cm: ");
         float metros = ler.nextFloat();
         float centimetros = metros * 100;
+        ler.close();
         System.out.printf("%.1f cm", centimetros);
 
     }
